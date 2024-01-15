@@ -1,0 +1,66 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    font-family: 'Source Serif 4', serif;
+}
+
+.intro {
+    border: 2px solid black;
+    width: 500px;
+    background-color: lightyellow;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.bio {
+    width: 300px;
+    text-align: center;
+    margin: 0 auto;
+    font-size: 13px;
+}
+
+.toInclude {
+    text-align: center;
+    font-size: 14px;
+    color: blueviolet;
+
+}
+
+.list {
+    margin-right: 30px;
+    text-align: center;
+    font-size: 13px;
+
+}
+
+.title {
+    text-align: center;
+    font-size: 14px;
+    color: blueviolet
+}
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    color: darkolivegreen;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+button {
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 15px;
+
+}
+
+#mailing {
+    text-align: center;
+}

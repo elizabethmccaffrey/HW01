@@ -1,0 +1,9 @@
+Website Structure:
+- My name : Elizabeth McCaffrey
+- Biography : 
+    Hello my name is Elizabeth McCaffrey and I am a third year Computer Science and Design major 
+    with a minor in Architectural Design. Within the realm of design I am focusing on Information Design;
+    as such I am very excited to take part in this class and learn more about data visualization concepts. 
+
+    When I am not in the classroom I enjoy reading, making art, and listening to music!
+- Photos [included in assets folder]
